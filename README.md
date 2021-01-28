@@ -6,4 +6,4 @@
 4. `$ php artisan migrate`
 5. `$ npm install`
 6. `$ npm run watch` or `$ npm run dev` for frontend process
-7. `$ php artisan serve`
+7. `$ php artisan serve` for backend process
